@@ -1,4 +1,2 @@
-## Hi there 👋
-
-![Visit Badge](https://img.shields.io/badge/Visits-{NUMBER}-brightgreen?style=for-the-badge)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fellypecs)
 
